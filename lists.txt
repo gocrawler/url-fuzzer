@@ -1,0 +1,6 @@
+/whatever
+/example
+/admin
+/secret
+/etag
+/images
