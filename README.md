@@ -50,7 +50,6 @@ Your all `found` sites with paths will be saved in `GOT.voot` and after finishin
 
 > You can also get the result in `http://localhost:1339`
 
-> All errors are available on `http://localhost:1339/err`
 
 # Wordlist
 
